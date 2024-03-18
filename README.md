@@ -5,3 +5,7 @@ npm install
 //or
 cnpm install
 ```
+## 2.npm run dev
+```shell
+npm run dev
+```
